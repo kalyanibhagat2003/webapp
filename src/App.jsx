@@ -27,6 +27,7 @@ function App() {
       </div>
       <p className="read-the-docs">
           Hey world i am kalyani and i am upcoming hacker
+          Anurag is my senior
       </p>
     </>
   )
